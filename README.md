@@ -1,2 +1,2 @@
 # Deep-Learning
-This repository contains implementation of ANN, CNN, RNN, SOM and Boltzmann machine.
+This repository contains implementation of ANN, CNN, RNN, SOM, Boltzmann machine and AutoEncoders.
